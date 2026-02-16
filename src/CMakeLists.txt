@@ -13,3 +13,4 @@ add_executable(${PROJECT_NAME}.info main.cpp)
 target_link_libraries(${PROJECT_NAME}.info ${PROJECT_NAME})
 
 #file(COPY ${${PROJECT_NAME}_SOURCE_DIR}/src/checker.py DESTINATION "/home/runner/work/ADS-0/ADS-0")
+
