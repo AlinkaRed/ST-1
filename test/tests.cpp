@@ -74,3 +74,4 @@ TEST(st1, sumPrime70) {
 TEST(st1, sumPrime99) {
     EXPECT_EQ(sumPrime(99), 1060);
 }
+
