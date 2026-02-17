@@ -12,6 +12,10 @@ TEST(st1, checkPrime1) {
     EXPECT_FALSE(checkPrime(1));
 }
 
+TEST(st1, checkPrime2) {
+    EXPECT_TRUE(checkPrime(2));
+}
+
 TEST(st1, checkPrime7) {
     EXPECT_TRUE(checkPrime(7));
 }
